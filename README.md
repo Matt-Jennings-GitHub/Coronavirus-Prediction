@@ -1,0 +1,2 @@
+# Coronavirus-Prediction
+End-to-end machine learning project. Predicting and understanding the spread of the COVID-19 Pandemic in the USA can help forecast supply chains and save jobs and lives. The past reproduction number is first calculated using estimates based on the SIRf pandemic model. Geographic, Socioeconomic and Health factors from individual counties are sourced and analysed from USA government datasets. These factors are used in machine learning models to predict the spread of the virus. The final results are visualised geographically.
